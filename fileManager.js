@@ -1,3 +1,5 @@
+// Read README.md file before using this program
+
 import fs from "fs";
 import path from "path";
 import readline from "readline";
