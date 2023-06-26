@@ -4,7 +4,14 @@
 
 # usage
 
-start with = npm run start -- --username = [your username]
+start with =
+npm run start -- --username=[your username]
+
+or
+
+npm start -- --username=[your username]
+
+Note: there should not be any space between --username and = and [your username]
 
 -------------------------------------------------------------------
 
