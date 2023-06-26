@@ -1,0 +1,13 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "A file manager built with Node.js",
+  "type": "module",
+  "main": "fileManager.js",
+  "scripts": {
+    "start": "node fileManager.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+ 
+}
